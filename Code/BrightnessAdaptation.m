@@ -35,10 +35,7 @@ function BrightnessAdaptation(oldLum, newLum, inputFilePath, outputFilePath, Bit
 %
 % Subfunctions: none
 % MAT-files required: none
-%
-% Author: Xuemeng Li, Anupreet Mahrok
 % University of British Columbia, Vancouver, Canada
-% Email: xmli01@ece.ubc.ca, anupreet.kaur444@gmail.com
 % Created: April 2019
 %
 % 
